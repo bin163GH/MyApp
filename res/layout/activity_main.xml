@@ -1,0 +1,27 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+     >
+	
+	<RelativeLayout
+                    android:id="@+id/rellayBody"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                     >
+    </RelativeLayout>
+    
+	
+                
+                
+    <RelativeLayout
+    	android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+	    android:layout_alignParentBottom="true"
+        >    
+        <include
+	        android:id="@+id/incBottomBar"
+	        layout="@layout/activity_frame_bottom_bar"
+	        />        
+	</RelativeLayout>
+</RelativeLayout>

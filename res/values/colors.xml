@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--  <color name="white_color">#ffffffff</color>-->
+	<color name="white">#FFFFFF</color>
+	<color name="title_white">#FFFFFF</color>
+	
+	
+	<color name="red">#FF0000</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="blue">#0000FF</color>
+    <color name="black">#000000</color>
+    
+    <color name="blackground">#56c0e8</color>
+    
+     <color name="light_blackground">#e9f5ff</color>
+    
+    <!-- 播放器seekbar背景 -->
+    <color name="transparent">#00000000</color><!-- 透明 -->
+    
+    <!-- 没播放音乐的item TrackTitle字体颜色 -->
+    <color name="track_list_item_no_play_tracktitle">#4c5564</color>
+    <!-- 没播放音乐的item TrackAuthor字体颜色 -->
+    <color name="track_list_item_no_play_trackauthor">#545c68</color>
+    <!-- 正在播放音乐的item TrackTitle字体颜色 -->
+    <color name="track_list_item_playing_tracktitle">#23272f</color>
+    <!-- 正在播放音乐的item TrackAuthor字体颜色 -->
+    <color name="track_list_item_playing_trackauthor">#343943</color>
+    
+    <color name="refresh_btn_gray">#404855</color>
+
+</resources>
